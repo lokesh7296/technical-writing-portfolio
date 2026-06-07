@@ -1,4 +1,4 @@
-# Technical Writing ortfolio 
+# Technical Writing portfolio 
 Hello I am Lokendra kumar saini 
 This repository contanins my technical articles on:
 
