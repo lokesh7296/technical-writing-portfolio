@@ -7,4 +7,10 @@ This repository contanins my technical articles on:
 - Docker
 - Jenkins
 - AWS
-I am building my technical writing portfolio to improve my skills and help others learn technology  
+  my goal is to create helpful technical content for beginners and improve my technical writing skills
+
+  ## Articles
+  1. What is Linux?
+  more articas will be added soon
+  Thank you for visiting my portfolio.
+
