@@ -1,0 +1,16 @@
+what is Linux?
+
+Linux is an operating system it is used in servers  cloud computing and devops environment . Linux is know for its security stability and performance 
+
+Advantages of Linux:
+1. Free and open Source 
+   Linux is free to use and modify 
+
+2. Secure 
+   Linux provides better security compared to many operating system 
+
+3. Fast Performance 
+   Linux uses fewer system resources and provides good performance    
+
+conclusion:
+Linux is one of the most important operating system for Devops engineers system administrators and professionals 
