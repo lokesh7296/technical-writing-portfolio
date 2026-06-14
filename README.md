@@ -11,6 +11,10 @@ This repository contanins my technical articles on:
 
   ## Articles
   1. What is Linux?
-  more articas will be added soon
-  Thank you for visiting my portfolio.
+  2. Top 20 Linux Commands
+  3. What is Docker
+  4. What is jenkins
+  5. What is Git and GitHub
+  
 
+ more articles will be added soon 
