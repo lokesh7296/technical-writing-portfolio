@@ -1,0 +1,99 @@
+What is Git and GiHub? 
+
+
+Introduction 
+Git and Github are essential tools used by developers and Devops engineers for version control and collaboration 
+They help teams mange code effficiently and track change in projects
+
+What is Git? 
+Git is a distributed versions control system created by linus Toravalds It allows developers to track code change 
+and collaborate with other team members 
+
+
+Features of Git 
+
+1. Version Control 
+Git tracks very change made to he source code 
+
+2. Fast Performance
+Git performs operations quickly ad efficiently 
+
+
+3. Braanching 
+Developers can create separate branches for new features 
+
+4. Collaboration
+Muiltipledeveoprs can work on the same project 
+
+5. Open Source
+Git is free and open-source software 
+
+
+What is Gitub?
+
+Github is a Cloud-based platform that hosts Git repositories 
+It allows developers to store mangage and share their code online 
+
+Features of GitHub 
+
+1. Repository
+GitHub stores code repositories securely
+
+2. Collaboration 
+Developer scan work together on projects 
+
+3. Pull Requests 
+Teams can review and merge code changes 
+
+4. Issue Tracking 
+GitHub helps tracks bugs and tasks 
+
+5. GitHub Actions 
+GitHub provids CI/CD automations Features 
+
+Commaon  Git Commands 
+
+1. git init 
+   Create a new Git repository 
+   Example:
+   git init 
+
+2. git status
+   Displays repositoey status 
+   Example:
+   git status 
+
+3. git add 
+   Adds files to the staging area 
+   Example:
+   git add 
+
+4. git commit 
+   Saves changes to the repository
+   Example:
+   git commit -m "initial Commit"
+
+5. git push
+   Uploads code to GitHub 
+   Example:
+   git push origin main 
+
+
+Advantages of Git and GitHub 
+
+1. Easy Collaboration 
+2. Secure code Backup
+3. VersionTracking 
+4. Open SourceDevelopment
+5. portfolio Building 
+
+Conclusion
+
+Git and GitHub are important tools for developers system administrators 
+and Devopsengineers Learning them helps manage projects efficiently and 
+collaborate with teams worldwide 
+
+   
+ 
+  
+ 

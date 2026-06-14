@@ -1,0 +1,103 @@
+What is Docker?
+ Docker is an  open-source platform used to develop, deploy, and run application in contaniners 
+ its helps developers and devops engnieer craete lightweight  porttable and consistent evnvironments 
+ for application 
+
+
+What is Docker?
+ Docker is a containerization tool that packages an application along with all its dependencies 
+ This ensures that the application runs the same way on any system
+
+
+Features of Docker 
+
+1. Lghtweight 
+ 
+Docker containers use fewer system resources then virtualmachines 
+
+2. portability
+
+Application start run on different operating system without modification 
+
+3. Fast Deployment 
+
+Containers start quickly and improve deployment speed 
+
+4. Scalability 
+
+Docker makes it easy to scale application based on demand 
+
+5. Isolation 
+
+Each contanier runs independently form other containers
+
+
+
+Common Docker Commands 
+
+1. dockr --version 
+ 
+Displays the installed Docker versions 
+Exampele:
+docker --version
+
+2. docker pull 
+Downlods an images form Docker Hub 
+Example:
+docker pull nginx 
+
+3. docker images 
+ 
+Lists all available Docker images 
+Example:
+docker images 
+
+4. docker run 
+Runs a Docker container 
+Example:
+docker run nginx 
+
+5. Docker ps 
+
+Dispalys running containers 
+Example:
+docker ps 
+
+6. docker stop
+
+Stops a running container 
+Example:
+docker stopcontainer_id 
+
+7. docker rm 
+
+Removes a container
+Example:
+docker rm container_id 
+
+8. docker rmi
+
+Removes a Docker images 
+Example:
+docker rmi nginx 
+
+
+Advantages of Docker 
+
+1. Faster Application Deployment 
+2. Better Resource utilization 
+3. Easy Application Management 
+4. improved Portability
+5. Simplified Development Process 
+
+Conclusion 
+
+Docker is one of the most important tools in modern 
+Devops practices Learning Docker helps developers and 
+system administrators build, deploy, and manage 
+application efficiently 
+
+
+Author: Lokendra kumar saini 
+
+

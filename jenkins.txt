@@ -1,0 +1,72 @@
+What is Jenkins?
+
+Introduction 
+Jenkins is an open-source automation server used by Devops engineer to automate software 
+devolopment processes It helps teams build test and deploy appication quickly and efficiently 
+
+What is Jenkins?
+Jenkins is a Continuous Integration and Continuous Deployment (CI/CD) tool It automate repetitive 
+tasks in software development and reduces manual effort
+
+
+Features of Jenkins?
+
+1. Open Source
+Jenkins is free and open-source software 
+
+2. Automaion 
+Jenkins automates build testing and deployment tasks 
+
+3. Plugin Support 
+Jenkins provids thousands of plugins for integration with different tools 
+
+4. Continuous Integration 
+Developers can frequently merage cod change and automatically test application 
+
+5. Easy Integration 
+Jenkins integrates with Github Docker Kubernetes AWS and many other tools 
+
+Common Jenkins Concepts 
+
+1. Jenkins job 
+A Pipeline Job is a task that jenkins executes automatically 
+
+2. Jenkins Pipeline 
+a Pipeline is a series of automate steps useds for building testing and depolying applications 
+
+3. Jenkins Agent 
+An  executes tasks assigned by the jenkins Controller 
+
+4. jenkins Dashboard 
+The Dashboard provides a central interface to manage Jenkins Jobs and pipeline 
+
+
+Advantages of Jenkins
+
+1.Faster Software Delivery
+2.Reduced Manual Work
+3.Improved Code Quality
+4.Easy Integration with DevOps Tools
+5.Increased Team Productivity
+
+
+Common Jenkins Uses
+1.Build Automation
+Jenkins automatically builds applications whenever code changes are made.
+
+2.Testing Automation
+Jenkins runs automated tests to detect issues early.
+
+3.Deployment Automation
+Jenkins deploys applications to servers automatically.
+
+Conclusion
+Jenkins is one of the most important tools in DevOps. 
+It helps automate software development processes and
+enables faster, more reliable application delivery.
+
+
+Author: Lokendra Kumar Saini
+
+ 
+ 
